@@ -18,6 +18,8 @@ const count = ref(0)
     </p>
     <p>Togi Marito Manurung</p>
     <P>233510308</P>
+    <p>Kelas 4F</p>
+    <p>Pratikum Pemrograman Berbasis Komponen</p>
   </div>
 
   <p>
