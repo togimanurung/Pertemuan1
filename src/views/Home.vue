@@ -1,11 +1,11 @@
 <template>
-  <div id="app">
+  <div>
     <VapeList />
   </div>
 </template>
 
 <script>
-import VapeList from './components/VapeList.vue';
+import VapeList from '../components/VapeList.vue';
 
 export default {
   components: {
