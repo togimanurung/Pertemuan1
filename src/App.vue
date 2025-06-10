@@ -1,15 +1,9 @@
 <template>
   <div id="app">
-    <VapeList />
+    <Home />
   </div>
 </template>
 
-<script>
-import VapeList from './components/VapeList.vue';
-
-export default {
-  components: {
-    VapeList
-  }
-};
+<script setup>
+import Home from './views/Home.vue';
 </script>
