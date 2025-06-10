@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="title">🛍️ Daftar Produk Vape</h1>
+    <h1 class="title"> Daftar Produk Vape</h1>
     <div class="product-list">
       <VapeCard
         v-for="product in products"
